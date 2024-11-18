@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPerson/HeadBobbing/BP_Walk.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPerson/HeadBobbing/BP_Sprint.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPerson/HeadBobbing/BP_Idle.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPerson/Input/Actions/IA_Sprint.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPerson/Input/IMC_Default.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/3/9Y/O1HBCAIOGYKE5W89K0N3EC.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/6/2R/TKXMGQLWGTB6FEH6EYY7NK.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/7/ZX/JUGNISA5MV8V8FE530PDPQ.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/8/9P/KRNGZ1PU2Y3ACDDE2D2XC5.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/A/JH/8TTAOMHN06NOHWGDJXKH1N.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/D/PH/WQFJJGR81PTWACYGUC1CP5.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/E/2M/ESWAVQBPX1XK2OH2YGVZCM.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/1/86/SHR2O71CA0X35JEHQVEIBR.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/Blueprint/IF_Interact.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/Blueprint/Inspect/BP_InspectItem.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/Blueprint/Inspect/RT_Inspect.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/Blueprint/Inspect/M_InspectCam.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/Blueprint/Inspect/W_Inspect.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/Blueprint/Item/BP_BaseItem.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/Resource/Icon/FloatingCircle.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/Resource/Icon/interact_Icon.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/YP/2MIP7HAZ11O94JNKMAV5IP.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/D8/TVI5HDJ4D35O2NCWESXNE6.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/CL/4JAMQBU1DS4YQ551FMTY7Q.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/Blueprint/Item/BP_test.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/Blueprint/Inspect/BP_BaseItem.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/Blueprint/Item/BP_test.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPerson/HeadShake/Walking.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPerson/HeadShake/Running.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPerson/HeadShake/Idle.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPerson/HeadShake/BP_Idle.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPerson/HeadShake/BP_Running.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPerson/HeadShake/BP_Walking.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPerson/HeadShake/BP_Sprit.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPerson/HeadShake/BP_Sprint.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/FirstPerson/HeadShake/BP_Walk.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/Blueprint/Interact.uasset",
+				"D:/Game Project/MA-GameDesign/ProjectDutchman/Content/Blueprint/InteractInterFace.uasset"
+			]
+		}
+	]
+}

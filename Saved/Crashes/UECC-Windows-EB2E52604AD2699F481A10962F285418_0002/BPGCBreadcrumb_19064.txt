@@ -1,0 +1,2 @@
+/Engine/Transient.Default__DEADCLASS_BP_test_C_1
+/Game/Blueprint/Item/BP_BaseItem.BP_BaseItem_C
